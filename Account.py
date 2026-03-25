@@ -1,7 +1,7 @@
 from telethon import TelegramClient, events
 
-api_id = 123456
-api_hash = "API_HASH"
+api_id = 31668886
+api_hash = "da822fdbdcecdb4692dfe7dd5a6e3785"
 
 # Канал куди пересилати всі повідомлення
 channel = "https://t.me/+BraoQaofzgE5OWZi"
